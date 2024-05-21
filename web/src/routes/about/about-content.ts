@@ -12,7 +12,19 @@ export const contributing = [
 ];
 
 export const projects = [
-   
+   {
+    title: '',
+    description:'',
+    icon: '',
+    link : '', 
+   },
+   {
+    title: '',
+    description:'',
+    icon: '',
+    link : '',
+
+   },
 ];
 
 export const socials = [
