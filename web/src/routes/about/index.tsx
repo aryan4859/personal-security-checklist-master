@@ -30,7 +30,7 @@ export default component$(() => {
   });
 
   const sponsorsResource = useResource$<Contributor[]>(async () => {
-    const url = 'https://github-sponsors.as93.workers.dev/lissy93';
+    const url = 'https://github-sponsors.as93.workers.dev/aryanstha';
     const response = await fetch(url);
     if (!response.ok) {
       throw new Error('Failed to fetch sponsors');
