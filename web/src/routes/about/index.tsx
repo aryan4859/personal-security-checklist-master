@@ -21,7 +21,7 @@ export default component$(() => {
   };
 
   const contributorsResource = useResource$<Contributor[]>(async () => {
-    const url = 'https://api.github.com/repos/lissy93/personal-security-checklist/contributors?per_page=100';
+    const url = 'https://api.github.com/repos/aryan4859/personal-security-checklist-master/contributors?per_page=1';
     const response = await fetch(url);
     if (!response.ok) {
       throw new Error('Failed to fetch contributors');
