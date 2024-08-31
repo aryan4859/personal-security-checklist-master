@@ -139,12 +139,12 @@ export default component$(() => {
         <h2 class="text-3xl mb-2" id="author">About the Author</h2>
           <p>
             This project was originally started by
-            me, <a href="https://aliciasykes.com" class="link link-primary">Alicia Sykes</a>
+            me, <a href="https://pbscybsec.github.io" class="link link-primary">pbscybsec.github.io</a>
             - with a lot of help from the community.
           </p>
           <br />
           <div class="ml-4 float-right">
-            <img class="rounded-lg" width="180" height="240" alt="Alicia Sykes" src="https://i.ibb.co/fq10qhL/DSC-0597.jpg" />
+            <img class="rounded-lg" width="180" height="240" alt="pgs" src="j.png" />
             <div class="flex gap-2 my-2 justify-between">
               {
                 socials.map((social, index) => (
@@ -178,8 +178,8 @@ export default component$(() => {
           <br />
           <p>
             For a more open source apps I've published,
-            see <a href="https://apps.aliciasykes.com/" class="link link-primary">apps.aliciasykes.com</a>,
-            or <a href="https://github.com/lissy93" class="link link-primary">follow me on GitHub</a>
+            see <a href="https://pbscybsec.github.io" class="link link-primary">pbscybsec.github.io</a>,
+            or <a href="https://github.com/pbscybsec" class="link link-primary">follow us on GitHub</a>
           </p>
 
       </article>
