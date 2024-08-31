@@ -40,7 +40,7 @@ export default component$(() => {
           </div> 
           <a href="/" class="btn btn-ghost text-xl flex capitalize">
             <label for="my-drawer-3" aria-label="open sidebar" class="tooltip tooltip-bottom" data-tip="View all Pages"><Icon class="mr-2" icon="shield" width={28} height={28}  /></label>
-            <h1>Digital Defense</h1>
+            <h1>Security Checklist</h1>
           </a>
         </div>
         <div class="flex-none hidden md:flex">
