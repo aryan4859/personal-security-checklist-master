@@ -144,7 +144,7 @@ export default component$(() => {
           </p>
           <br />
           <div class="ml-4 float-right">
-            <img class="rounded-lg" width="180" height="240" alt="pgs" src="j.png" />
+            <img class="rounded-lg" width="180" height="240" alt="pgs" src="https://pbscybsec.github.io/assets/img/logo-scl.svg" />
             <div class="flex gap-2 my-2 justify-between">
               {
                 socials.map((social, index) => (
