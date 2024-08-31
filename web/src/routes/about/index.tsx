@@ -190,12 +190,12 @@ export default component$(() => {
         <h2 class="text-3xl mb-2">License</h2>
         <p>
           This project is split-licensed, with the checklist content (located
-          in <a class="link" href="https://github.com/Lissy93/personal-security-checklist/blob/HEAD/personal-security-checklist.yml">
+          in <a class="link" href="https://github.com/aryan4859/personal-security-checklist-master/blob/HEAD/personal-security-checklist.yml">
             <code>personal-security-checklist.yml</code>
           </a>) being licensed
           under <b><a href="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0</a></b>.
           And everything else (including all the code), licensed
-          under <b><a href="https://gist.github.com/Lissy93/143d2ee01ccc5c052a17">MIT</a></b>.
+          under <b><a href="#">MIT</a></b>.
         </p>
         <pre class="bg-front whitespace-break-spaces rounded text-xs my-2 mx-auto p-2">
           {license}
@@ -224,7 +224,7 @@ export default component$(() => {
 });
 
 export const head: DocumentHead = {
-  title: "About | Digital Defense",
+  title: "About | Security Checklist",
   meta: [
     {
       name: "description",
